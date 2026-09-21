@@ -1,0 +1,2 @@
+rootProject.name = "LevelUpVastu"
+include ':app'
